@@ -1,0 +1,14 @@
+INPUT(
+./debug/main.o
+./debug/MainWindowContainer.o
+./debug/FBApi.o
+./debug/HttpClient.o
+./debug/UT.o
+./debug/json_reader.o
+./debug/json_value.o
+./debug/json_writer.o
+./debug/dialog.o
+./debug/moc_MainWindowContainer.o
+./debug/moc_HttpClient.o
+./debug/moc_dialog.o
+);

@@ -1,0 +1,14 @@
+INPUT(
+./release/main.o
+./release/MainWindowContainer.o
+./release/FBApi.o
+./release/HttpClient.o
+./release/UT.o
+./release/json_reader.o
+./release/json_value.o
+./release/json_writer.o
+./release/dialog.o
+./release/moc_MainWindowContainer.o
+./release/moc_HttpClient.o
+./release/moc_dialog.o
+);

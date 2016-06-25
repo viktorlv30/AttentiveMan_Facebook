@@ -1,0 +1,26 @@
+on 
+
+curl 'https://www.facebook.com/ufi/reaction/?dpr=1' -H 'Host: www.facebook.com' -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' -H 'Accept-Language: uk,ru;q=0.8,en-US;q=0.5,en;q=0.3' -H 'Accept-Encoding: gzip, deflate, br' -H 'Content-Type: application/x-www-form-urlencoded' -H 'Referer: https://www.facebook.com/profile.php?id=100008129298080' -H 'Cookie: datr=TpEoV2dP-oBmwwyoNMCVz_F0; sb=U5EoV63Ue1YkBOkV-sLTrZwp; fr=0zIfuCyXrTkr8si4p.AWU3-i1I08DLo5Ruy0vJAnG0Qrs.BXKJFU.Ns.Fco.0.AWUbAWMZ; lu=ggaKaYnW-cpm7yw7cie2VhtQ; locale=uk_UA; c_user=100008129298080; xs=146%3AL7fWxXhulnhyBQ%3A2%3A1462287274%3A15808; csm=2; s=Aa7ET4dIEnIPg9iH.BXKLuq; pl=n; act=1462704710847%2F5; p=-2; presence=EDvF3EtimeF1462704685EuserFA21B08129298080A2EstateFDt2F_5b_5dElm2FnullEuct2F1462703216004EtrFA2loadA2EtwF1426758361EatF1462704685323G462704685448CEchFDp_5f1B08129298080F2CC; x-src=%2Fprofile.php%7Cpagelet_timeline_recent_ocm' -H 'Connection: keep-alive' --data 'client_id=1462704710897%3A1464598639&ft_ent_identifier=1718155975132029&reaction_type=1&root_id=u_0_2l&session_id=188652b2&source=21&feedback_referrer=%2F&av=100008129298080&ft[tn]=]&ft[top_level_post_id]=1718155975132029&ft[tl_objid]=1718155975132029&ft[fbfeed_location]=10&ft[thid]=100008129298080%3A306061129499414%3A2%3A0%3A1464764399%3A6212032721176591139&nctr[_mod]=pagelet_timeline_recent&__user=100008129298080&__a=1&__dyn=5V5yAW8-aloAwmgDxyG8EiolzFEbEyGgyi8zQC-C26m6oKewWhEoyUnwgUb8f9Unkwy8wGF1aUOuVWxeUlxWEuwYDDBBwDKq4GCzEkxvz8-cx2q5qxe6U88C9ADBBG&__req=d&__be=0&__pc=EXP1%3ADEFAULT&fb_dtsg=AQEiit0i9HQS%3AAQGHD3uXVGZw&ttstamp=265816910510511648105577281835865817172685111788867190119&__rev=2324945'
+
+on 2
+
+curl 'https://www.facebook.com/ufi/reaction/?dpr=1' -H 'Cookie: c_user=100008129298080; xs=146%3AL7fWxXhulnhyBQ%3A2%3A1462287274%3A15808' --data 'client_id=1462704710897&ft_ent_identifier=1718155975132029&reaction_type=1&fb_dtsg=AQEiit0i9HQS%3AAQGHD3uXVGZw'
+
+windows
+curl "https://www.facebook.com/ufi/reaction/?dpr=1" -H "Cookie: c_user=100008129298080; xs=146%3AL7fWxXhulnhyBQ%3A2%3A1462287274%3A15808" --data "client_id=1462704710897&ft_ent_identifier=1718155975132029&reaction_type=1&fb_dtsg=AQEiit0i9HQS%3AAQGHD3uXVGZw"
+
+on 3
+
+curl 'https://www.facebook.com/ufi/reaction/?dpr=1' -H 'Cookie: c_user=100008129298080; xs=146%3AL7fWxXhulnhyBQ%3A2%3A1462287274%3A15808' --data 'client_id=1462704710897&ft_ent_identifier=1715702655377361&reaction_type=1&fb_dtsg=AQEiit0i9HQS%3AAQGHD3uXVGZw'
+
+off
+
+off-cygwin
+
+curl 'https://www.facebook.com/ufi/reaction/?dpr=1' -H 'Cookie: c_user=100008129298080; xs=146%3AL7fWxXhulnhyBQ%3A2%3A1462287274%3A15808' --data 'client_id=1462704779718&ft_ent_identifier=1718155975132029&reaction_type=0&fb_dtsg=AQFCUF_eZkT3%3AAQEhUDtNKPEw'
+
+off-windows
+
+curl "https://www.facebook.com/ufi/reaction/?dpr=1" -H "Cookie: c_user=100008129298080; xs=146%3AL7fWxXhulnhyBQ%3A2%3A1462287274%3A15808" --data "client_id=1462704779718&ft_ent_identifier=1718155975132029&reaction_type=0&fb_dtsg=AQFCUF_eZkT3%3AAQEhUDtNKPEw"
+
+curl 'https://www.facebook.com/ufi/reaction/?dpr=1' -H 'Host: www.facebook.com' -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' -H 'Accept-Language: uk,ru;q=0.8,en-US;q=0.5,en;q=0.3' -H 'Accept-Encoding: gzip, deflate, br' -H 'Content-Type: application/x-www-form-urlencoded' -H 'Referer: https://www.facebook.com/profile.php?id=100008129298080' -H 'Cookie: datr=TpEoV2dP-oBmwwyoNMCVz_F0; sb=U5EoV63Ue1YkBOkV-sLTrZwp; fr=0zIfuCyXrTkr8si4p.AWU3-i1I08DLo5Ruy0vJAnG0Qrs.BXKJFU.Ns.Fco.0.AWUbAWMZ; lu=ggaKaYnW-cpm7yw7cie2VhtQ; locale=uk_UA; c_user=100008129298080; xs=146%3AL7fWxXhulnhyBQ%3A2%3A1462287274%3A15808; csm=2; s=Aa7ET4dIEnIPg9iH.BXKLuq; pl=n; act=1462704779682%2F5; p=-2; presence=EDvF3EtimeF1462704770EuserFA21B08129298080A2EstateFDt2F_5b_5dElm2FnullEuct2F1462703216004EtrFA2loadA2EtwF1961881416EatF1462704770062G462704770825CEchFDp_5f1B08129298080F2CC; x-src=%2Fprofile.php%7Cpagelet_timeline_recent_ocm' -H 'Connection: keep-alive' --data 'client_id=1462704779718%3A130818948&ft_ent_identifier=1718155975132029&reaction_type=0&root_id=u_0_2l&session_id=3fb49459&source=21&feedback_referrer=%2F&av=100008129298080&ft[tn]=]&ft[top_level_post_id]=1718155975132029&ft[tl_objid]=1718155975132029&ft[fbfeed_location]=10&ft[thid]=100008129298080%3A306061129499414%3A2%3A0%3A1464764399%3A6212032721176591139&nctr[_mod]=pagelet_timeline_recent&__user=100008129298080&__a=1&__dyn=5V5yAW8-aloAwmgDxyG8EiolzFEbEyGgyi8zQC-C26m6oKewWhEoyUnwgUb8f9Unkwy8wGF1aUOuVWxeUlxWEuwYDDBBwDKq4GCzEkxvz8-cx2q5qxe6U88C9ADBBG&__req=9&__be=0&__pc=EXP1%3ADEFAULT&fb_dtsg=AQFCUF_eZkT3%3AAQEhUDtNKPEw&ttstamp=26581706785709510190107845158658169104856811678758069119&__rev=2324945'
